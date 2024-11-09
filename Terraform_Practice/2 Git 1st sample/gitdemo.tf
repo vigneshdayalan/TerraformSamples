@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "github" {
-  token = "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"
+  token = ""
 }
 
 resource "github_repository" "viki_repo" {
